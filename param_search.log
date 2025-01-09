@@ -1,0 +1,4 @@
+2025-01-07 14:34:32,987 - INFO - 
+Testing parameters: {'num_features': 32, 'growth_rate': 16, 'num_blocks': 3, 'num_layers': 3}
+2025-01-07 14:35:51,246 - INFO - 
+Testing parameters: {'num_features': 32, 'growth_rate': 16, 'num_blocks': 3, 'num_layers': 3}
